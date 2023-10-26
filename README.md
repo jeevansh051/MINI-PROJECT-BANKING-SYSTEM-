@@ -1,7 +1,7 @@
 # MINI-PROJECT-BANKING-SYSTEM-
 This is a code of banking system which tells us how it actually works.
 
-##Theory:
+## THEORY:
 - This code is to know about the working of banking system with vectors and many other operators.
 - we can create an accout.
 - we can edit the account details.
